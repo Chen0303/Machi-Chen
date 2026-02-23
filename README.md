@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Machi Chen</h1>
 <h3 align="center">Frontend Engineer | Vue 3 | TypeScript</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Chen0303=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.behance.net/fang chen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="fang chen" height="30" width="40" /></a>
