@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Machi Chen</h1>
 <h3 align="center">Frontend Engineer | Vue 3 | TypeScript</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Fangling-Chen=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 總覽卡 -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thc1006)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
